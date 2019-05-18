@@ -28,3 +28,7 @@ local NPC =
 list.Set( "NPC", "npc_dost_e", NPC )
 
 --kayranın amı alev alev
+
+--eğer bunu okuyorsan ya bu işleri biliyorsun yada bir orospu evladısın
+
+--dost abi banımı aç
