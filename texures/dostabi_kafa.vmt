@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "dostabi/dostabi_kafa"
+	"$phong" "1"
+	"$phongboost"	".1"
+	"$phongalbedotint" "1"
+	"$nocull" 1
+	"$phongfresnelranges"	"[1 .1 .1]"
+	"$halflambert" "1"
+	"$lightwarptexture" "dostabi\toon_head"
+	"$phongexponenttexture" "dostabi\phong"
+}
